@@ -5,7 +5,7 @@ import { FcSearch } from "react-icons/fc";
 import logoFoundJob from "../../asset/images/logo.png";
 import { Button } from "../globalStyleComponents";
 //Styles
-import { NavBar, Container, Search } from "./NavBarStyle";
+import { NavBar, Container, Search } from "./NavBarStyles";
 
 const Navbar = () => {
   return (

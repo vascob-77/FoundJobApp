@@ -7,6 +7,10 @@ const GlobalStylesHTML = createGlobalStyle`
     padding: 0;
   }
 
+  html{
+    max-width: 100%;
+  }
+
   body{
     font-family: "Poppins";
     overflow-x: hidden;

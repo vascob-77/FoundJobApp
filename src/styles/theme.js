@@ -2,6 +2,7 @@ export const theme = {
     black:"#202020",
     white:"#F9F9F9",
     purple:"#A17BD2",
+    purpleLight:"#E0CBFE",
 
 
     fontxs: '0.75em',
